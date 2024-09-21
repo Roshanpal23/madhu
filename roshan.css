@@ -1,0 +1,44 @@
+
+body{
+    background-image: url(fm.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: 800px;
+    background-color: black;
+    
+    
+}
+h2{
+    color: #0e12e2;
+    font-size: 50px;
+}
+h4{
+    color: #0d35e9;
+    font-size: 50px;
+}
+button{
+    margin: 19%;
+    padding: 3px;
+    font-size: 60px;
+    width: 200px;
+    height: 80px;
+    background-color:green;
+    color: rgb(226, 9, 45);
+    border:none;
+    border-radius: 10px;
+    cursor:pointer;
+    
+}
+.button{
+    margin-right: 185ch;
+    padding: 3px;
+    font-size: 60px;
+    width: 200px;
+    height: 80px;
+    background-color:green;
+    color: rgb(226, 9, 45);
+    border:none;
+    border-radius: 10px;
+    cursor:pointer;
+    
+}
